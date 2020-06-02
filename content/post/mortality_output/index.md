@@ -28,13 +28,13 @@ image:
 projects: []
 ---
 
-We are looking mortality models for simulated death data using a negative binomial likelihood. The dataset is for the London borough of Hammersmith and Fulham only.
+We are building mortality models for simulated death data using a negative binomial likelihood. The dataset is for the London borough of Hammersmith and Fulham only.
 
 # Life expectancy over time
 Firstly for the _BYM_ model.
 <iframe seamless src="le_fig_BYM_nb.html" width="100%" height="500"></iframe>
 
-And now for the _hierarcical_ model.
+And now for the _hierarchical_ model.
 <iframe seamless src="le_fig_hier_nb.html" width="100%" height="500"></iframe>
 
 Both models show a Marmot curve and non-linarity in time.
@@ -46,4 +46,4 @@ _BYM_ map...
 and _hierarchical_ map.
 <iframe seamless src="le_map_hier_nb.html" width="100%" height="500"></iframe>
 
-Adjacent spatial units have more similar life expectancies in the BYM model than the hierarchical model, indicating more spatial smoothing.
+Adjacent spatial units have more similar life expectancies in the _BYM_ model than the _hierarchical_ model, indicating more spatial smoothing.
