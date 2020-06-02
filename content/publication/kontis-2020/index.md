@@ -1,6 +1,6 @@
 ---
 title: "Age- and sex-specific total mortality impacts of the early weeks of the Covid-19 pandemic in England and Wales: Application of a Bayesian model ensemble to mortality statistics"
-date: 2020-01-01
+date: 2020-05-20
 publishDate: 2020-06-02T11:51:15.124853Z
 authors: ["Vasilis Kontis", "James E Bennett", "Robbie M Parks", "Theo Rashid", "Jonathan Pearson-Stuttard", "Perviz Asaria", "Michel Guillot", "Marta Blangiardo", "Majid Ezzati"]
 publication_types: ["3"]
