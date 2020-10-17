@@ -67,4 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-View [all]({{< ref "/publication/_index.md" >}}).
+<!-- View [all]({{< ref "/publication/_index.md" >}}). -->
