@@ -70,6 +70,3 @@ user_groups:
 I am a PhD student working in the [Global Environmental Health](http://globalenvhealth.org) at the [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health) under the supervision of [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99), [Seth Flaxman](http://sethrf.com/) and [Mireille Toledano](https://www.imperial.ac.uk/people/m.toledano).
 
 As part of the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org) collaboration, my research looks at mortality in London using Bayesian spatiotemporal models and Gaussian processes. I am interested in the different impacts of environmental and economic deprivation on different sub-groups of the population. On the methods side, I am also interested in using novel data such as satellite and street-view imagery to improve model performance.
-
-
-
