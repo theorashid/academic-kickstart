@@ -1,0 +1,21 @@
+# Theme metadata
+name = "customt"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#222222"
+
+# Menu
+menu_primary = "#FBFBFB"
+menu_text = "#222222"
+menu_text_active = "222222"
+menu_title = "#222222"
+
+# Backgrounds
+background = "#FBFBFB"
+home_section_odd = "#FBFBFB"
+home_section_even = "rgb(247, 247, 247)"
+
+#font = "rose"
