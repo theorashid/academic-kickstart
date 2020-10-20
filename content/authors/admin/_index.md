@@ -18,12 +18,13 @@ organizations:
   url: "https://www.imperial.ac.uk/school-public-health"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Bayesian methods, Gaussian processes and social determinants of health.
+bio: Biostatistics PhD student at Imperial College London.
 
 interests:
-- Mortality
-- Gaussian processes
+- Social determinants of health
+- Bayesian machine learning
 - Political economy
+- Sustainable fashion
 
 education:
   courses:
@@ -67,6 +68,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student working in the [Global Environmental Health](http://globalenvhealth.org) at the [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health) under the supervision of [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99), [Seth Flaxman](http://sethrf.com/) and [Mireille Toledano](https://www.imperial.ac.uk/people/m.toledano).
+I am currently studying for a PhD in the [Global Environmental Health](http://globalenvhealth.org) group at the [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health) under the supervision of [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati), [James Bennett](https://www.imperial.ac.uk/people/umahx99), [Seth Flaxman](http://sethrf.com/) and [Mireille Toledano](https://www.imperial.ac.uk/people/m.toledano).
 
-As part of the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org) collaboration, my research looks at mortality in London using Bayesian spatiotemporal models and Gaussian processes. I am interested in the different impacts of environmental and economic deprivation on different sub-groups of the population. On the methods side, I am also interested in using novel data such as satellite and street-view imagery to improve model performance.
+As part of the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org) collaboration, my research looks at small-area trends in mortality in London and England using both Bayesian parametric and nonparametric models. I am interested in how environmental and economic deprivation impact different subgroups of the population.
+
+I previously read theoretical physics, also at Imperial College, writing my thesis on the dynamics of hurricanes.
