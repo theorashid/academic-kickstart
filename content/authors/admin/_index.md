@@ -23,7 +23,8 @@ bio: Biostatistics PhD student at Imperial College London.
 interests:
 - Social determinants of health
 - Bayesian machine learning
-- Political economy
+- Wealth inequality
+- Democratic erosion
 - Sustainable fashion
 
 education:
