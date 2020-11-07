@@ -18,7 +18,7 @@ organizations:
   url: "https://www.imperial.ac.uk/school-public-health"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Biostatistics PhD student at Imperial College London.
+bio: modelling in London
 
 interests:
 - Social determinants of health
