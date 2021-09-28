@@ -21,10 +21,10 @@ organizations:
 bio: modelling in London
 
 interests:
-- Social determinants of health
+- Spatiotemporal statistics
+- Probabilistic programming
 - Bayesian machine learning
-- Wealth inequality
-- Democratic erosion
+- Social determinants of health
 - Sustainable fashion
 
 education:
